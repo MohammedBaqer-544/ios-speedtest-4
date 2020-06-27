@@ -38,3 +38,5 @@ struct Student {
 
 // MARK:  الكائن  object مبنية علي هذي struct  قم بكتابة كود ال
 var student = Student(name: "Omar", age: 25 , hobbies: ["Coding", "drawing"])
+
+
