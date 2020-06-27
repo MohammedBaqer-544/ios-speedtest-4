@@ -15,14 +15,14 @@ for i in 1...5 {
 
 // MARK: هذي الداله تقوم بضرب رقمين و ترجع الناتج
 
-func Multiplication(  number1 : Int ,  number2 : Int) -> Int
+func Multiplication(_ number1 : Int,_ number2 : Int) -> Int
 {
     
     return number1 * number2
 }
 // MARK:   بما يناسب صيغه هذا الاستدعاء Multiplication قم بتعديل  الداله
 
-Multiplication(number1: 5, number2: 7)
+Multiplication(5, 7)
 
 
 
